@@ -13,6 +13,7 @@ This project entails conducting Exploratory Data Analysis (EDA) on the AMCAT dat
 This repository contains the following files:
 - `dataset/`: Directory containing the [AMEO Dataset](https://github.com/himanshu-03/Exploratory-Data-Analysis-of-AMEO-Dataset/tree/main/dataset).
 - `notebooks/`: Directory containing Jupyter [notebooks for exploratory data analysis](https://github.com/himanshu-03/Exploratory-Data-Analysis-of-AMEO-Dataset/tree/main/notebooks).
+- `reports/`: Directory containing the [report files](https://github.com/himanshu-03/Exploratory-Data-Analysis-of-AMEO-Dataset/tree/main/reports).
 - `README.md`: This file, providing an overview of the project and instructions.
 - `requirements.txt`: File listing all required dependencies for the project.
 
