@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) and Hypothesis Testing on AMCAT Dataset
+# Exploratory Data Analysis (EDA) and Hypothesis Testing on AMEO Dataset
 
 ## 📋 Project Overview
 This project entails conducting Exploratory Data Analysis (EDA) on the AMCAT dataset, focusing on understanding various features and their relationships with the target variable, Salary. Additionally, hypothesis testing is performed to investigate specific claims, such as the relationship between education and earning potential, and to test the claim made in a Times of India article regarding the earning potential of Computer Science Engineering graduates.
